@@ -8,6 +8,10 @@ body {
   margin-bottom: 50px;
 }
 
+.container h1 {
+  text-align: center;
+}
+
 textarea{
   background: transparent;
   border: none;
@@ -90,4 +94,10 @@ label{
   font-size: 20px;
   transition: all .3s ease-in-out;
   color: black;
+}
+
+.ui-effects-transfer {
+  border: 2px solid white;
+  background-color: white;
+  opacity: 0.3;
 }
