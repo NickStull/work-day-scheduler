@@ -14,6 +14,4 @@ Published website: (https://nickstull.github.io/work-day-scheduler/)
 
 ## Screenshots:
 
-<img src="" width=50% height=50%>
-
-<img src="" width=50% height=50%>
+<img src="https://github.com/NickStull/work-day-scheduler/blob/main/Assets/screenshots/work-day-calendar.png" width=50% height=50%>
